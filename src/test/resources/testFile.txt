@@ -1,0 +1,10 @@
+QTY    Name     Price     Total
+1      Bread      5.0      5.0
+2      Milk      10.0      20.0
+3      Kiwi      45.0      38.25
+4      Coffee      32.0      25.6
+5      Tea      25.0      23.75
+6      Sugar      36.0      31.68
+7      Salt      49.0      46.06
+Discount: 12.38
+Total: 199.62
